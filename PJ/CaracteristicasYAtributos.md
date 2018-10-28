@@ -105,7 +105,7 @@
 
 ![](../Img/Rangos.png)
 
-![](../Img/Mejoras sancionado.png)
+![](../Img/MejorasSancionado.png)
 
 ##Mejoras
 

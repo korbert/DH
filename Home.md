@@ -1,13 +1,13 @@
 #PJ
 
-- [Características y atributos](./PJ/Características y atributos.md)
+- [Características y atributos](./PJ/CaracteristicasYAtributos.md)
 - [Transfondo](./PJ/Transfondo.md)
 - [Equipo](./PJ/Equipo.md)
 - [Poderes](./PJ/Poderes.md)
 
 ---
 
-![Psyker](Img/Psiquico Primaris.jpg)
+![Psyker](./Img/PsiquicoPrimaris.jpg)
 
 ##Información interesante
 

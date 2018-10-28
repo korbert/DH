@@ -8,7 +8,7 @@ Tipo|Alcance|CDD|Daño|Pen|Car|Recarga|Especial|Peso|Precio
 ---|:---:|---|---|---|---|---|---|---|:---:
 Pistola|30 m|T/-/-|1d10+2 E|0|30|Completa|Fiable|1'5 kg|50
 
-![Pistola láser compacta](../Img/Pistola láser.png)
+![Pistola láser compacta](../Img/PistolaLaser.png)
 
 La pistola láser es una arma ligera, compacta y fiable de uso muy extendido en todo el Imperio. Existen infinidad de diseños, desde elaboradas herencias familiares grabadas con intrincadas tallas y filigranas de oro hasta las armas más simples pero brutales que suelen usar pandilleros y criminales.
 

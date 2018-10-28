@@ -78,5 +78,5 @@ Tras nombrarme Psíquico Autorizado me destinaron a la BS Calamity, donde me ree
 
 #Leyenda
 
-- [1: Ship Categories](../Lore/Ship categories.md)
+- [1: Ship Categories](../Lore/ShipCategories.md)
 - [2: Pilot Grades](https://www.reddit.com/r/DaystromInstitute/comments/39tegj/pilot_grades/)

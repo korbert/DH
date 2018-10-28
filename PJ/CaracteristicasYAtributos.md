@@ -1,6 +1,6 @@
-#Características y atributos
+# Características y atributos
 
-##Características
+## Características
 
 - **39** (HA) Habilidad de Armas
 - **29** (HP) Habilidad de Proyectiles
@@ -12,7 +12,7 @@
 - **52** (V) Voluntad (42 +5 +5)
 - **29** (EM) Empatía
 
-##Habilidades
+## Habilidades
 
 - **Hablar idioma** (Gótico vulgar) (INT)
 - **Hablar idioma** (Dialecto nave) (INT)
@@ -44,7 +44,7 @@
 	Dos o más|El personaje halla la ubicación exacta del individuo que está canalizando o bloqueando el inmaterium.
 	
 
-##Talentos y rasgos
+## Talentos y rasgos
 
 - Entrenamiento con armas c/c (primitivas)
 - Entrenamiento con pistolas (láser)
@@ -84,20 +84,20 @@
 		
 - Psíquico autorizado
 
-##Otros atributos
+## Otros atributos
 
 - 11 Heridas
 - 3 Puntos de destino
 - 3 Metros por asalto
 - 1 Locura
 
-##Bonos
+## Bonos
 
 - Agorero (-5 a todas las tiradas de empatía contra humanos que no sean del vacío)
 - Orientación estelar (Int), pilotar nave espacial (Agi) > se considera habilidad básica
 - Cada vez que gaste 1 pto de destino (no sacrificando) tira 1-10. Si sacas un 9 natural (sin bonos), no pierdes el punto
 
-##A gastar
+## A gastar
 
 - Experiencia total: 423
 - Experiencia actual: 73
@@ -107,7 +107,7 @@
 
 ![](../Img/MejorasSancionado.png)
 
-##Mejoras
+## Mejoras
 
-+5 Voluntad (100)
-+5 Voluntad (250)
+- +5 Voluntad (100)
+- +5 Voluntad (250)

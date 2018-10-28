@@ -1,4 +1,4 @@
-#PJ
+# PJ
 
 - [Características y atributos](./PJ/CaracteristicasYAtributos.md)
 - [Transfondo](./PJ/Transfondo.md)
@@ -9,7 +9,7 @@
 
 ![Psyker](./Img/PsiquicoPrimaris.jpg)
 
-##Información interesante
+## Información interesante
 
 - [1: Poderes psíquicos](http://es.warhammer40k.wikia.com/wiki/Poderes_ps%C3%ADquicos)
 - [2: Psíquicos Primaris](http://es.warhammer40k.wikia.com/wiki/Ps%C3%ADquicos_Primaris)

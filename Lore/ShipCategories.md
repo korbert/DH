@@ -1,4 +1,4 @@
-#Ship categories
+# Ship categories
 
 - BC - Battlecruiser
 - BS - Battleship

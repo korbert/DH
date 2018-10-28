@@ -60,13 +60,13 @@ Cuerpo|2|2 kg|10
 - **51** tronos de oro
 - `Ingresos mensuales de 70 tronos de oro`
 
-##Otros
+## Otros
 
 - Baraja tarot imperial
 - Foco psíquico (+10 a invocación) **A decidir**
 - Marca de autorización
 
-##Compras
+## Compras
 
 - Arnés de seguridad (25)
 - Filtros nasales (15)

@@ -1,6 +1,6 @@
-#Douglas Adams
+# Douglas Adams
 
-##Rasgos de carácter
+## Rasgos de carácter
 
 - **¡El Horror, el horror!** Tus cabellos se han vuelto blancos como la nieve, de vez en cuando farfullas para tus adentros, y todas las noches sufres terribles pesadillas. Ganas 1d5 puntos de Locura.
 - Agorero
@@ -11,13 +11,13 @@
 - Pienso en mis padres a menudo e intento comunicarme con ellos.
 - Tiro las cartas, por el hecho de poder contar historias, siempre tengo una baraja a mano y no desperdicio ningún momento para hacerlo. También juego al poker con ellas.
 
-##Objetivos
+## Objetivos
 
 1. Servir a mi flota
 2. Dominar la disciplina psíquina de la Adivinación
 3. Hacer que mis padres se sientan orgullosos
 
-##Rasgos físicos
+## Rasgos físicos
 
 - Piel pálida
 - Pelo blanco, largo, con un moño, para que no me moleste
@@ -26,13 +26,13 @@
 
 ---
 
-#Futuro
+# Futuro
 
 ...
 
 ---
 
-#Historia
+# Historia
 
 Fui el primer hijo de un matrimonio feliz, ambos, mis padres, tripulación de la nave Polaris, él piloto, ella artillera. Éramos tres hermanos, al menos por un tiempo.
 
@@ -76,7 +76,7 @@ En Terra nos llevaron al extremo, desgarrando la Disformidad para explorar nuest
 
 Tras nombrarme Psíquico Autorizado me destinaron a la BS Calamity, donde me reecontré con mi viejo amigo Rhannis y poco después a la BS Praetor, de la flota Sanguine Vanguard, donde actualmente sirvo como piloto y psíquico de combate.
 
-#Leyenda
+# Leyenda
 
 - [1: Ship Categories](../Lore/ShipCategories.md)
 - [2: Pilot Grades](https://www.reddit.com/r/DaystromInstitute/comments/39tegj/pilot_grades/)
